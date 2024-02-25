@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    /* background-image: url(https://e1.pxfuel.com/desktop-wallpaper/37/754/desktop-wallpaper-for-website-backgrounds-itl-cat-websites-thumbnail.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    /* background: rgb(41,62,47);
+    background: linear-gradient(71deg, rgba(41,62,47,1) 0%, rgba(39,63,49,0.8913690476190477) 36%); */
+
+}
+.one{
+    color: white;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.nav-item:hover{
+    color: orange;
+
+}
